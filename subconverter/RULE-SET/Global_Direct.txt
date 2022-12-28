@@ -1,1 +1,1 @@
-RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+DOMAIN-SUFFIX,modeng.tk
