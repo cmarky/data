@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,modeng.tk
 DOMAIN-SUFFIX,baidu.com
+DOMAIN,vip.lz-cdn11.com
+DOMAIN,yszj.cm
