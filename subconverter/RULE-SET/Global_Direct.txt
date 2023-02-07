@@ -4,3 +4,4 @@ DOMAIN,vip.lz-cdn11.com
 DOMAIN,yszj.cm
 DOMAIN-SUFFIX,pic.tingxiaoshuo.cc
 PROCESS-NAME,com.hqst.app.ahsp
+DOMAIN,videocloud.cn-hangzhou.log.aliyuncs.com
