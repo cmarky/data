@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,455.fun
 DOMAIN-SUFFIX,mudvod.tv
 DOMAIN,newpppp.com
 DOMAIN,biggggg.com
+DOMAIN-SUFFIX,pttime.org
