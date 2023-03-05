@@ -1,0 +1,9 @@
+PROCESS-NAME,com.hqst.app.ahsp
+PROCESS-NAME,com.qiqi.hhvideo
+PROCESS-NAME,com.chunqiu.ahsp
+PROCESS-NAME,com.a10miaomiao.bilimiao
+PROCESS-NAME,com.free.player
+PROCESS-NAME,com.instagram.android
+PROCESS-NAME,com.xingin.xhs
+PROCESS-NAME,com.mudvod.video
+PROCESS-NAME,com.cqcsy.ifvod
