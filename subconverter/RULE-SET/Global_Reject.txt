@@ -1,1 +1,1 @@
-DOMAIN,api.fhjasokiwq.com
+DOMAIN,data.flurry.com
